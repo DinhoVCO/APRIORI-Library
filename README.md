@@ -8,7 +8,7 @@
 - **CARLOS FERNANDO MONTOYA CUBAS** - _Docente_ - [Concytec](http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=0a57f731d8f19e91a96dd3446392?id_investigador=19358).
 
 #### Actividad 03: “Reglas de Asociación”
-![image](https://github.com/Mjinboodssj999/Grupo1-Abad/blob/main/IS_gif1.gif)
+![image](https://github.com/DinhoVCO/pruebas/blob/main/reglas.png)
 
 
 #### Alumno 🤓:
