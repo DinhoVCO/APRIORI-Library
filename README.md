@@ -7,8 +7,7 @@
 #### Docente:
 - **CARLOS FERNANDO MONTOYA CUBAS** - _Docente_ - [Concytec](http://dina.concytec.gob.pe/appDirectorioCTI/VerDatosInvestigador.do;jsessionid=0a57f731d8f19e91a96dd3446392?id_investigador=19358).
 
-#### Actividad 03: “Reglas de Asociación”
-![image](https://github.com/DinhoVCO/pruebas/blob/main/reglas.png)
+### Actividad 03: “Reglas de Asociación”
 
 
 #### Alumno 🤓:
@@ -32,8 +31,17 @@ de este tipo de estrategias pueden ser encontradas en análisis de compras y de 
 La base de datos a utilizar corresponde a múltiples playlists de la plataforma spotify creadas por usuarios de esta. Este es una muestra del dataset publicado para el [Rec- Sys
 Challenge 2018](http://www.recsyschallenge.com/2018/).
 
-##### Resultados
+#### Codigo
 
+El codigo esta debidamente comentado y cada modulo muestra su reseña de funcion, Parameters y Returns
+
+![image](https://github.com/DinhoVCO/pruebas/blob/main/comentario1.png)
+![image](https://github.com/DinhoVCO/pruebas/blob/main/comentario2.png)
+![image](https://github.com/DinhoVCO/pruebas/blob/main/comentario3.png)
+
+#### Resultados
+
+![image](https://github.com/DinhoVCO/pruebas/blob/main/reglas.png)
 
 
 
